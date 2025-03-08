@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Akshay Haldar</h1>
+<h1 align="center">Hey! 👋 I'm Akshay Haldar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&width=440&lines=Web+Developer+%7C+AI+Enthusiast;Open+Source+Contributor;Passionate+Tech+Learner" />
