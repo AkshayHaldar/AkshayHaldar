@@ -5,6 +5,7 @@
 </p>
 
 ---
+[![An image of @akshayhaldar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshayhaldar)](https://holopin.io/@akshayhaldar)
 
 # 💫 About Me:
 - 🔟 I’m currently working on **A Web Development Project**
